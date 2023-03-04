@@ -159,11 +159,12 @@ Our code is based on these excellent open source projects:
 
 Many thanks to them!
 
-# Related Repo's
+# Related Repos
 * https://github.com/wzzheng/TPVFormer
 * https://github.com/FANG-MING/occupancy-for-nuscenes
 * https://github.com/nvlabs/voxformer
 
+# 
 # Citation
 If you find this project useful in your research, please consider cite:
 ```
@@ -173,4 +174,9 @@ Title = {OccDepth: A Depth-Aware Method for 3D Semantic Scene Completion},
 journal = {arXiv:2302.13540},
 Year = {2023},
 }
+
+# Resources
+- https://zhuanlan.zhihu.com/p/610063482
+
+If you have any question, please send email to huchen@megvii.com.
 ```
